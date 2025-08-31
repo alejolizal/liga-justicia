@@ -1,3 +1,3 @@
 # Objetivos de la repositorio
 
-## cambio nuevos
+## cambio nuevos desde github
